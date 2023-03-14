@@ -232,3 +232,4 @@ with a3:
         fig = px.pie(values=x, names=tier)
         st.plotly_chart(fig, use_container_width=True, height=350)
 
+st.caption('App was made by Anand Soni and Deepak Rathore')
